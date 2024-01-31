@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "msedge",
+      "name": "emil",
+      "request": "launch",
+      "url": "emil"
+    }
+  ]
+}
